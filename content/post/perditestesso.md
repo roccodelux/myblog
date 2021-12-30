@@ -40,4 +40,5 @@ Come si fa a dare un senso alla propria vita e non vivere inutilmente ?
 La risposta non ce l'ho e più gli anni passano e più la domanda diventa dirompente.
 In questo periodo particolare, quando siamo privati di possibilità, che cosa tien su veramente la vita, che cosa voglia dire godersela davvero perchè il paradiso è il sommo piacere il massimo godimento, andare alle fonti della vita alla sorgente dell'essere e a ritrovare una grandezza perciò nostra che ci ved tornare quello che siamo veramente destinati ad essere.
 
+
 ..... (articolo da continuare)
