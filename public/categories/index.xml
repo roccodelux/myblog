@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Rocco De Luca Pensieri Liberi</title>
+    <link>https://rocco.z6.web.core.windows.net/categories/</link>
+    <description>Recent content in Categories on Rocco De Luca Pensieri Liberi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rocco.z6.web.core.windows.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personali</title>
+      <link>https://rocco.z6.web.core.windows.net/categories/personali/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rocco.z6.web.core.windows.net/categories/personali/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Riglessioni</title>
+      <link>https://rocco.z6.web.core.windows.net/categories/riglessioni/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rocco.z6.web.core.windows.net/categories/riglessioni/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
